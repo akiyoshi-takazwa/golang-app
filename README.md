@@ -1,6 +1,6 @@
 ## golang-app
 
-http:localhost:3000
+http://localhost:3000
 
 ## 環境構築参考記事
 
